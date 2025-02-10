@@ -1,0 +1,35 @@
+                        Backend development
+    2 major compinents
+
+    A programming language                         A database
+
+    Java, Js, PHP, golang,                          Mongo, My Sql postgres, sqlite
+    C++                     
+    on a framework                                          ORM ODM
+
+
+
+    Browser <----> API<----> Backend <----> Database - Another continent
+    Mobile <----> API<----> Backend  <----> Database - Another continent
+
+
+    A JS based backend
+
+    Data                    File                Third Party (API)
+
+    -> A JS runtime: Nodejs /Deno/Bun
+
+    Package.json                    .cnv        (Readme, git, lint, prettier etc)
+
+    src 
+    Index                   APP                     Constants
+    DM connects                config cookie,       enums, DB-name
+                                    urlencode
+
+    DB
+    Models
+    Controllers
+    Routes
+    Middlewares
+    Utils
+    More(depends)
